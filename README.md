@@ -1,4 +1,4 @@
-<span style="color: yellow;"># Credit Card Approval Prediction</span>
+# Credit Card Approval Prediction
 
 
 ## Overview
