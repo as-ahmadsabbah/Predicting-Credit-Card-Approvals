@@ -6,3 +6,4 @@ This project focuses on building a machine learning model to predict whether a c
 ## Background
 Commercial banks handle a large volume of credit card applications daily, which can be a time-consuming and error-prone process when done manually. Automating the approval process using machine learning algorithms enables banks to streamline operations, reduce processing time, and enhance decision-making accuracy.
 
+![image](https://github.com/as-ahmadsabbah/Predicting-Credit-Card-Approvals/assets/107211206/cedd5a1e-eebc-4488-acee-cbdd1a822e0c)
